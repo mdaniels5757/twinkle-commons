@@ -4,6 +4,9 @@ import mwMessageList from './mw-messages';
 
 // import modules
 import { Fluff } from './fluff';
+import { Unlink } from './unlink';
+import { BatchDelete } from './batchdelete';
+import { BatchUndelete } from './batchundelete';
 
 // no customisation; import directly from core
 import { DiffCore as Diff } from './core';
